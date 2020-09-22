@@ -1,5 +1,7 @@
 # UsefulLinks
 Collection of websites and tools and links useful for development and learning
+##
+
 
 # Web Development
 ## HTML/CSS/JS
@@ -25,3 +27,10 @@ Collection of websites and tools and links useful for development and learning
 
 ***
 ## Spring Framework
+
+
+***
+# Git Tutorials
+* [Understanding Git — Behind the Command Line - Enrico Campidoglio](https://www.youtube.com/watch?v=BdiLKxSu-2Q)
+* [Understanding Git - Paolo Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4)
+* [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=fBP18-taaNw)
