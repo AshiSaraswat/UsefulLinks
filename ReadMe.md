@@ -43,3 +43,10 @@ Collection of websites and tools and links useful for development and learning
 * [Streaming Big Data in Azure with Kafka and Event Hubs](https://channel9.msdn.com/events/Build/2018/BRK3317?term=event%20hubs&lang-en=true)
 * [How we serve 3 Trillion requests per week with Event Hubs](https://channel9.msdn.com/events/Ignite/New-Zealand-2016/M336?term=event%20hubs&lang-en=true)
 * [Episode 15: Azure Event Hubs with Dan Rosanova](https://channel9.msdn.com/Shows/msdevshow/Episode-15-Azure-Event-Hubs-with-Dan-Rosanova?term=event%20hubs&lang-en=true)
+
+
+# Sample data sets
+* [UC Davis Datasets](https://anson.ucdavis.edu/~clarkf/)
+* [HR Data](http://eforexcel.com/wp/downloads-16-sample-csv-files-data-sets-for-testing/)
+* [NYC Taxi Data](https://cran.r-project.org/web/packages/arrow/vignettes/dataset.html)
+* [Enron email and Wikipedia history data](https://drill.apache.org/docs/sample-datasets/)
