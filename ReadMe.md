@@ -50,3 +50,11 @@ Collection of websites and tools and links useful for development and learning
 * [HR Data](http://eforexcel.com/wp/downloads-16-sample-csv-files-data-sets-for-testing/)
 * [NYC Taxi Data](https://cran.r-project.org/web/packages/arrow/vignettes/dataset.html)
 * [Enron email and Wikipedia history data](https://drill.apache.org/docs/sample-datasets/)
+
+# [Databricks JDBC / ODBC Drivers](https://pages.databricks.com/ODBC-Driver-Download.html)
+* Debian Drivers v2.6.16-1019 (ODBC)  [32-bit](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-Debian-32bit.zip)    [64-bit](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-Debian-64bit.zip)
+* LinuxRPM Drivers v2.6.16-1019 (ODBC) [32-bit](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-LinuxRPM-32bit.zip)        [64-bit](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-LinuxRPM-64bit.zip)
+* [Mac OSX Drivers v2.6.16-1019 (ODBC)](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-OSX.zip)
+* Windows Drivers v2.6.16-1019 (ODBC) [32-bit](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-Windows-32bit.zip)    [64-bit](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkODBC-2.6.16.1019-Windows-64bit.zip)
+* [JDBC Drivers](https://databricks.com/wp-content/uploads/drivers-2020/SimbaSparkJDBC42-2.6.17.1021.zip)
+
